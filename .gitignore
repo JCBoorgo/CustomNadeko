@@ -356,3 +356,5 @@ __pycache__/
 
 ### VisualStudio Patch ###
 build/
+src/NadekoBot/ffmpeg.exe
+src/NadekoBot/youtube-dl.exe
